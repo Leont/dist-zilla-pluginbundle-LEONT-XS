@@ -1,6 +1,8 @@
 Revision history for Dist-Zilla-PluginBundle-LEONT-XS
 
 {{$NEXT}}
+
+0.002     2011-11-27 17:11:12 Europe/Amsterdam
           Added support for [ModuleBuild::Custom]
 
 0.001     2011-09-26 12:13:19 Europe/Amsterdam

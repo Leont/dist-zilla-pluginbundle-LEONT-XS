@@ -2,6 +2,7 @@ Revision history for Dist-Zilla-PluginBundle-LEONT-XS
 
 {{$NEXT}}
           Inherit from @LEONT::Base, and embed @Basic without MakeMaker
+          Add support for Dist::Zilla::Role::PluginBundle::Config::Slicer
 
 0.002     2011-11-27 17:11:12 Europe/Amsterdam
           Added support for [ModuleBuild::Custom]

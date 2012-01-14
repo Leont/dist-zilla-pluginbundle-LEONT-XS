@@ -1,6 +1,7 @@
 Revision history for Dist-Zilla-PluginBundle-LEONT-XS
 
 {{$NEXT}}
+          Add Dist::Zilla::Role::PluginBundle::PluginRemover
 
 0.003     2012-01-06 18:20:27 Europe/Amsterdam
           Inherit from @LEONT::Base, and embed @Basic without MakeMaker

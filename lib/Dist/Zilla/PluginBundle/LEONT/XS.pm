@@ -2,7 +2,7 @@ package Dist::Zilla::PluginBundle::LEONT::XS;
 use Moose;
 use Dist::Zilla;
 extends 'Dist::Zilla::PluginBundle::LEONT::Base';
-with qw/Dist::Zilla::Role::PluginBundle::Easy Dist::Zilla::Role::PluginBundle::Config::Slicer/;
+with qw/Dist::Zilla::Role::PluginBundle::Easy Dist::Zilla::Role::PluginBundle::PluginRemover Dist::Zilla::Role::PluginBundle::Config::Slicer/;
 
 has use_modern => (
 	is => 'ro',

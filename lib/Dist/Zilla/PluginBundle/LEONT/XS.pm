@@ -30,9 +30,9 @@ sub configure {
 
 1;
 
-__END__
-
 #ABSTRACT: Plugins LeonT uses for XS modules
+
+__END__
 
 =head1 DESCRIPTION
 

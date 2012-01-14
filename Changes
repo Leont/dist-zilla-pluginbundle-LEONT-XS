@@ -1,6 +1,8 @@
 Revision history for Dist-Zilla-PluginBundle-LEONT-XS
 
 {{$NEXT}}
+
+0.004     2012-01-14 13:11:15 Europe/Amsterdam
           Add Dist::Zilla::Role::PluginBundle::PluginRemover
 
 0.003     2012-01-06 18:20:27 Europe/Amsterdam
